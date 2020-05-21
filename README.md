@@ -1,6 +1,9 @@
 # RaspberryZeroW_Camera
 Use a RaspberryPi Zero as Wireless Camera
 
+based on 
+https://medium.com/home-wireless/headless-streaming-video-with-the-raspberry-pi-zero-w-and-raspberry-pi-camera-38bef1968e1
+
 
 
 ## Helpful Commands
